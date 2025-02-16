@@ -1,0 +1,365 @@
+{"type": "sleep", "timestamp": "2024-07-19T00:54:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2025-01-10T01:08:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 93.62880886426593}
+{"type": "sleep", "timestamp": "2025-01-25T03:03:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.74934036939314}
+{"type": "sleep", "timestamp": "2025-01-20T01:30:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2024-07-07T01:53:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.50993377483444}
+{"type": "sleep", "timestamp": "2024-11-24T02:13:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.31451612903226}
+{"type": "sleep", "timestamp": "2024-11-14T00:26:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.68556701030928}
+{"type": "sleep", "timestamp": "2024-12-31T01:44:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.96819787985866}
+{"type": "sleep", "timestamp": "2024-11-02T02:20:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.56109725685785}
+{"type": "sleep", "timestamp": "2024-07-21T23:03:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.54545454545455}
+{"type": "sleep", "timestamp": "2025-01-26T05:58:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2025-01-11T02:15:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.59467455621302}
+{"type": "sleep", "timestamp": "2025-01-21T02:22:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.95121951219512}
+{"type": "activity", "timestamp": "2025-01-22T21:21:06.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-07-08T01:36:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.22333333333333}
+{"type": "activity", "timestamp": "2025-01-07T17:16:19.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 107, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-10-31T09:20:14.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 94, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-11-04T09:40:26.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 108, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-11-25T02:03:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 88.22905027932961}
+{"type": "activity", "timestamp": "2024-07-01T17:20:57.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 84, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-05-29T18:28:08.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 136, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-07-04T00:18:11.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 95, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2025-01-27T21:06:52.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 101, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-11-15T01:35:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.13774104683196}
+{"type": "activity", "timestamp": "2024-07-18T21:43:21.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 141, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-08-02T09:14:28.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-12T10:18:21.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 105, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-09T09:45:38.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 93, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-18T10:22:39.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2025-01-01T04:10:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.48226950354609}
+{"type": "activity", "timestamp": "2024-07-10T09:32:29.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 100, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-06T10:41:07.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 105, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-11-03T00:55:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.31567328918322}
+{"type": "activity", "timestamp": "2024-11-10T09:07:11.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 159, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-05-24T18:28:15.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-21T08:12:44.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 98, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-07-22T23:27:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.00456621004567}
+{"type": "sleep", "timestamp": "2025-01-28T00:29:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.88388625592417}
+{"type": "activity", "timestamp": "2024-06-26T10:16:19.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 95, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2025-01-12T02:01:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "activity", "timestamp": "2024-07-24T23:06:04.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 107, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-08-13T09:11:24.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 113, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2025-01-22T02:13:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.4959349593496}
+{"type": "activity", "timestamp": "2025-01-23T15:39:06.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 105, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-07-09T04:53:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.11627906976744}
+{"type": "activity", "timestamp": "2025-01-10T17:31:36.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 108, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-11-05T13:40:32.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 120, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-10-31T09:44:10.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 146, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-07-01T23:36:15.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 94, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2025-01-30T20:51:13.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 109, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-07-04T10:08:21.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-05-29T20:22:20.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 112, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2024-06-29T02:04:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.45150501672241}
+{"type": "sleep", "timestamp": "2024-11-16T00:33:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 93.15544041450777}
+{"type": "activity", "timestamp": "2024-07-19T08:31:08.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-08-02T11:22:46.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 92, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-12T18:25:28.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 95, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-18T18:59:50.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-09T19:40:16.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 134, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-06-06T15:51:31.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2025-01-02T01:30:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.3317191283293}
+{"type": "activity", "timestamp": "2024-07-10T22:47:01.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 136, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-11-25T13:46:56.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 110, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-11-04T01:48:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.15404699738903}
+{"type": "activity", "timestamp": "2024-05-26T12:11:21.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 100, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-22T14:50:59.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 149, "steps_activity": null, "activity_name": "Running"}
+{"type": "sleep", "timestamp": "2024-07-24T01:52:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.33211678832117}
+{"type": "sleep", "timestamp": "2025-01-29T02:10:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.82072829131653}
+{"type": "sleep", "timestamp": "2025-01-13T01:31:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "activity", "timestamp": "2024-06-26T17:20:57.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 107, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-07-25T22:04:54.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 119, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-08-13T09:57:02.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 120, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2025-01-23T02:45:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.15598885793872}
+{"type": "activity", "timestamp": "2024-10-27T11:21:50.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 87, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-07-10T01:46:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "activity", "timestamp": "2025-01-12T18:18:54.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 109, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-11-05T15:31:09.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 111, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-10-31T20:20:11.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 152, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-12-26T21:07:04.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 112, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-07-02T09:04:40.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 104, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-05-29T22:32:06.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 116, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-07-04T23:32:38.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 146, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-07-21T15:19:01.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 138, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-08-02T12:39:53.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2024-06-30T02:55:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 93.17937219730942}
+{"type": "sleep", "timestamp": "2024-11-16T23:42:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.03397027600849}
+{"type": "activity", "timestamp": "2024-06-12T22:36:46.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 129, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-06-18T20:38:07.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 98, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-09T21:52:28.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2025-01-03T00:52:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 93.80964467005076}
+{"type": "activity", "timestamp": "2024-06-06T22:46:31.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 132, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-07-30T09:53:59.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-07-11T09:33:21.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 152, "steps_activity": null, "activity_name": "Running"}
+{"type": "sleep", "timestamp": "2024-11-05T00:21:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.02272727272727}
+{"type": "activity", "timestamp": "2024-05-27T10:13:21.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 108, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-22T20:15:04.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 71, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2024-07-25T01:34:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2025-01-30T03:07:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.3217665615142}
+{"type": "sleep", "timestamp": "2025-01-14T01:31:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.13555555555556}
+{"type": "activity", "timestamp": "2024-06-26T18:20:05.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 87, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-07-26T17:33:37.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 101, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-08-13T18:41:22.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 90, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2025-01-24T01:17:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.44}
+{"type": "activity", "timestamp": "2024-10-27T11:54:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 150, "steps_activity": null, "activity_name": "Running"}
+{"type": "sleep", "timestamp": "2024-07-11T01:26:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.57621951219512}
+{"type": "activity", "timestamp": "2024-11-05T17:28:25.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 148, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-12-27T19:05:50.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 109, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-07-02T10:00:47.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 90, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2025-01-13T15:16:20.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 114, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-07-06T13:19:15.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 111, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-11-01T09:51:17.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 117, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-07-01T00:40:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 93.39935064935065}
+{"type": "activity", "timestamp": "2024-07-21T18:34:49.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 137, "steps_activity": null, "activity_name": "HIIT"}
+{"type": "activity", "timestamp": "2024-08-02T20:48:36.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 88, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-06-18T21:14:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 120, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-06-07T00:51:44.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 116, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2024-11-18T01:46:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.19170984455958}
+{"type": "activity", "timestamp": "2024-07-30T14:41:57.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 95, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-06-10T08:30:09.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 94, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-12T23:48:03.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2025-01-04T01:13:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2024-11-06T00:11:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.79006772009029}
+{"type": "activity", "timestamp": "2024-06-23T18:22:17.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 109, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-05-27T18:21:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 104, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-07-12T00:10:19.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 87, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-07-26T00:48:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.94460641399417}
+{"type": "sleep", "timestamp": "2024-12-26T02:22:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.99521531100478}
+{"type": "sleep", "timestamp": "2025-01-15T02:15:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.8}
+{"type": "activity", "timestamp": "2024-07-27T17:23:58.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 79, "steps_activity": null, "activity_name": "Hiking"}
+{"type": "activity", "timestamp": "2024-08-13T23:16:06.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 133, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-06-26T23:48:01.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 140, "steps_activity": null, "activity_name": "Running"}
+{"type": "sleep", "timestamp": "2024-10-27T01:41:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 93.92458100558659}
+{"type": "activity", "timestamp": "2024-10-27T14:02:06.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 92, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2025-01-14T10:07:04.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 93, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-07-02T19:01:38.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2024-07-12T02:26:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "activity", "timestamp": "2024-11-06T08:48:41.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 112, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-11-01T14:17:09.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 88, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-08-06T10:44:31.000000+03:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 145, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-12-30T16:55:47.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 133, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-07-06T18:42:06.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 113, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2024-07-02T01:24:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.6984126984127}
+{"type": "activity", "timestamp": "2024-07-22T15:38:15.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-11-19T01:16:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.47096774193548}
+{"type": "activity", "timestamp": "2024-06-19T10:25:52.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 159, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-13T09:40:43.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 108, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-07-30T21:25:15.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 113, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-10T15:47:09.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 92, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-06-07T10:14:26.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-11-07T00:03:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.5}
+{"type": "activity", "timestamp": "2024-06-24T09:56:48.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 110, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-07-14T20:54:06.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 136, "steps_activity": null, "activity_name": "Running"}
+{"type": "sleep", "timestamp": "2025-01-05T02:16:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2024-07-27T01:12:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.82488479262673}
+{"type": "sleep", "timestamp": "2025-01-16T02:54:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.51603498542273}
+{"type": "activity", "timestamp": "2024-05-27T19:37:51.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 105, "steps_activity": null, "activity_name": "Dance"}
+{"type": "activity", "timestamp": "2024-07-28T16:15:18.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 146, "steps_activity": null, "activity_name": "Running"}
+{"type": "sleep", "timestamp": "2024-12-27T00:19:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.37922077922077}
+{"type": "activity", "timestamp": "2024-08-13T23:24:09.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 145, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-06-27T10:13:59.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 104, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-10-27T16:24:07.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-10-28T00:47:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.75662650602409}
+{"type": "activity", "timestamp": "2024-11-06T17:35:49.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 146, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-08-07T15:52:32.000000+03:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 152, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-11-02T12:29:02.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2025-01-15T17:41:43.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 107, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-07-13T02:02:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.10502283105023}
+{"type": "activity", "timestamp": "2024-07-02T22:07:07.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 71, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-07-03T02:02:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.5432525951557}
+{"type": "activity", "timestamp": "2024-12-30T19:17:02.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 109, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-07-23T10:35:44.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 90, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-11-19T23:12:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.90131578947368}
+{"type": "activity", "timestamp": "2024-07-07T11:50:02.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 148, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-06-13T22:07:18.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 148, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-06-19T23:07:09.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 135, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-07-31T09:05:48.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 99, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-10T21:55:35.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 100, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-07T10:37:31.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 110, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2024-11-07T23:29:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "activity", "timestamp": "2024-06-24T21:31:08.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2025-01-06T02:21:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.33566433566433}
+{"type": "activity", "timestamp": "2024-07-15T10:10:32.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 106, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-07-28T00:25:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.77839335180056}
+{"type": "sleep", "timestamp": "2025-01-17T02:23:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.90656565656566}
+{"type": "activity", "timestamp": "2024-05-28T17:37:56.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 137, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-08-13T23:42:39.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 143, "steps_activity": null, "activity_name": "Running"}
+{"type": "sleep", "timestamp": "2024-12-28T00:30:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.39224137931035}
+{"type": "activity", "timestamp": "2024-05-30T09:54:48.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 93, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-28T08:58:10.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 142, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-10-28T22:14:22.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 111, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-10-29T01:31:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "activity", "timestamp": "2024-08-09T10:59:39.000000+03:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 138, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-11-06T18:38:06.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 110, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-07-02T23:05:04.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 124, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2025-01-16T19:31:53.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 108, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-11-20T23:11:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2024-07-16T02:07:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 93.89333333333333}
+{"type": "sleep", "timestamp": "2024-07-04T01:56:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.40551181102362}
+{"type": "activity", "timestamp": "2024-12-31T18:58:08.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 112, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-11-02T16:58:26.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 113, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-20T00:11:38.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 100, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-07-07T21:21:45.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 109, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-13T22:39:19.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 113, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-07-23T16:03:47.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 138, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-07-31T20:33:06.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 93, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2024-11-09T02:32:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2025-01-07T00:56:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.29876543209876}
+{"type": "activity", "timestamp": "2024-06-07T18:55:22.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 106, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-11T10:00:10.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-07-15T23:32:59.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-29T12:44:04.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 106, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-25T10:12:03.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-05-30T18:38:05.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 132, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-05-28T18:52:50.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 115, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2025-01-18T03:42:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2024-12-29T00:30:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.15151515151516}
+{"type": "activity", "timestamp": "2024-06-28T10:19:22.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-11-07T08:35:40.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 91, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-10-31T01:02:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.1675}
+{"type": "activity", "timestamp": "2024-08-12T09:44:08.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 101, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-10-29T19:03:22.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 85, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2025-01-16T21:48:59.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-07-03T10:29:34.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 89, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-07-05T01:29:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2024-07-17T01:39:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.25266903914591}
+{"type": "activity", "timestamp": "2024-11-02T23:24:03.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 94, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2025-01-02T19:14:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 109, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-11-21T23:09:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.85828877005348}
+{"type": "activity", "timestamp": "2024-07-08T10:20:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 95, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-07-23T20:18:49.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 94, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-08-01T09:20:48.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 101, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-20T10:54:45.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 100, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2025-01-08T01:46:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.77906976744185}
+{"type": "activity", "timestamp": "2024-06-14T17:20:06.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 88, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-06-11T16:44:06.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 92, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-11-09T22:57:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 97.26666666666667}
+{"type": "activity", "timestamp": "2024-07-16T10:00:11.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 150, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-06-07T20:58:12.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-29T19:02:20.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 146, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-05-30T21:42:20.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 109, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-25T10:17:41.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2025-01-19T01:46:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2024-12-30T01:42:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "activity", "timestamp": "2024-06-28T18:28:16.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 95, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-11-07T15:39:51.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 144, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-08-12T14:12:22.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "Strength"}
+{"type": "sleep", "timestamp": "2024-11-01T01:04:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.74613686534217}
+{"type": "activity", "timestamp": "2024-10-30T22:29:11.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 123, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2025-01-17T16:57:16.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-05-29T09:50:22.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 106, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-07-03T19:25:04.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 100, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "sleep", "timestamp": "2024-07-18T01:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 96.23006134969326}
+{"type": "activity", "timestamp": "2024-11-03T11:34:02.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 108, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2024-07-06T01:14:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": null}
+{"type": "sleep", "timestamp": "2024-11-23T00:02:00.000000+08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 94.92771084337349}
+{"type": "activity", "timestamp": "2025-01-03T11:15:49.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 119, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-08-01T11:45:09.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 92, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-07-09T09:58:43.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 91, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "sleep", "timestamp": "2025-01-09T01:53:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.43428571428572}
+{"type": "activity", "timestamp": "2024-07-24T20:58:20.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 135, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-06-20T18:50:19.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 89, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-07-17T10:21:57.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 91, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-08T12:18:44.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-15T16:14:26.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 139, "steps_activity": null, "activity_name": "Running"}
+{"type": "sleep", "timestamp": "2024-11-11T01:10:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "respiration_sleep": 95.57057057057057}
+{"type": "activity", "timestamp": "2024-06-30T09:55:03.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 109, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-05-31T10:31:14.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 81, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-11T22:20:48.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 125, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-11-07T21:53:47.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 99, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-26T00:04:24.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 89, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-10-30T22:55:02.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 93, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-05-24T10:32:07.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 108, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2025-01-21T17:20:52.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 106, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-08-12T18:42:29.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 98, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2025-01-06T20:58:53.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-07-09T22:56:08.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 136, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-05-29T09:56:05.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 108, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-11-03T19:09:08.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 147, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-08-01T12:33:07.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 82, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-07-03T22:30:54.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 131, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-07-24T22:03:46.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 103, "steps_activity": null, "activity_name": "Cardio"}
+{"type": "activity", "timestamp": "2024-07-17T14:07:43.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 92, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-06-20T22:02:50.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 111, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-08T18:06:01.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 113, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-07-01T08:49:46.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 107, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-01T00:53:09.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 106, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-17T20:52:29.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 102, "steps_activity": null, "activity_name": "Cycling"}
+{"type": "activity", "timestamp": "2024-06-11T23:03:52.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 96, "steps_activity": null, "activity_name": "eBiking"}
+{"type": "activity", "timestamp": "2024-06-26T00:45:16.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 125, "steps_activity": null, "activity_name": "Running"}
+{"type": "activity", "timestamp": "2024-05-24T16:06:08.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 104, "steps_activity": null, "activity_name": "Strength"}
+{"type": "activity", "timestamp": "2024-05-29T17:54:16.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_activity": 97, "steps_activity": null, "activity_name": "Strength"}
+{"type": "daily", "timestamp": "2024-07-23T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 61.581937363437724, "steps_daily": 11641, "stress_daily": 26}
+{"type": "daily", "timestamp": "2024-07-24T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 65.26449275362319, "steps_daily": 17985, "stress_daily": 31}
+{"type": "daily", "timestamp": "2024-07-25T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 66.26641221374045, "steps_daily": 16023, "stress_daily": 36}
+{"type": "daily", "timestamp": "2024-07-26T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 58.90555555555556, "steps_daily": 6419, "stress_daily": 26}
+{"type": "daily", "timestamp": "2024-07-27T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 60.66861741038771, "steps_daily": 21807, "stress_daily": 25}
+{"type": "daily", "timestamp": "2024-07-28T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 69.86814244465833, "steps_daily": 34408, "stress_daily": 17}
+{"type": "daily", "timestamp": "2024-07-13T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 61.11162255466053, "steps_daily": 10971, "stress_daily": 19}
+{"type": "daily", "timestamp": "2024-07-14T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 114.71120689655173, "steps_daily": 30172, "stress_daily": 76}
+{"type": "daily", "timestamp": "2024-07-15T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 68.13333333333334, "steps_daily": 6526, "stress_daily": 36}
+{"type": "daily", "timestamp": "2024-07-16T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 63.304776345716455, "steps_daily": 15013, "stress_daily": 25}
+{"type": "daily", "timestamp": "2024-07-17T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 62.287729196050776, "steps_daily": 11106, "stress_daily": 27}
+{"type": "daily", "timestamp": "2024-07-18T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 65.59396226415095, "steps_daily": 19255, "stress_daily": 28}
+{"type": "daily", "timestamp": "2024-07-19T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 63.89042089985486, "steps_daily": 17684, "stress_daily": 31}
+{"type": "daily", "timestamp": "2024-07-20T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 76.20289855072464, "steps_daily": 27353, "stress_daily": 51}
+{"type": "daily", "timestamp": "2024-07-21T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 90.3102310231023, "steps_daily": 20972, "stress_daily": 56}
+{"type": "daily", "timestamp": "2024-07-22T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 65.4732075471698, "steps_daily": 12568, "stress_daily": 28}
+{"type": "daily", "timestamp": "2025-01-09T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 68.42821576763485, "steps_daily": 7488, "stress_daily": 37}
+{"type": "daily", "timestamp": "2025-01-10T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 71.68985507246377, "steps_daily": 7172, "stress_daily": 33}
+{"type": "daily", "timestamp": "2024-07-03T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 66.46289493019839, "steps_daily": 19379, "stress_daily": 34}
+{"type": "daily", "timestamp": "2025-01-11T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 71.02323943661972, "steps_daily": 18875, "stress_daily": 31}
+{"type": "daily", "timestamp": "2024-12-30T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 69.65975103734439, "steps_daily": 13740, "stress_daily": 34}
+{"type": "daily", "timestamp": "2025-01-19T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 68.49166666666666, "steps_daily": 11663, "stress_daily": 33}
+{"type": "daily", "timestamp": "2025-01-25T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.38622129436325, "steps_daily": 13432, "stress_daily": 37}
+{"type": "daily", "timestamp": "2024-07-04T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 64.54378219278881, "steps_daily": 12253, "stress_daily": 29}
+{"type": "daily", "timestamp": "2024-12-31T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 69.94078460399705, "steps_daily": 13701, "stress_daily": 33}
+{"type": "daily", "timestamp": "2025-01-20T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.53554119547657, "steps_daily": 6153, "stress_daily": 37}
+{"type": "daily", "timestamp": "2025-01-01T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 72.24300559552358, "steps_daily": 16677, "stress_daily": 41}
+{"type": "daily", "timestamp": "2024-07-05T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 66.33819444444444, "steps_daily": 12268, "stress_daily": 36}
+{"type": "daily", "timestamp": "2025-01-26T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 70.22338049143708, "steps_daily": 16578, "stress_daily": 35}
+{"type": "daily", "timestamp": "2025-01-21T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 68.03860711582135, "steps_daily": 6450, "stress_daily": 35}
+{"type": "daily", "timestamp": "2025-01-12T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 73.07083333333334, "steps_daily": 9661, "stress_daily": 41}
+{"type": "daily", "timestamp": "2025-01-02T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 68.73472222222222, "steps_daily": 6567, "stress_daily": 35}
+{"type": "daily", "timestamp": "2024-07-06T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 61.89868287740628, "steps_daily": 6320, "stress_daily": 23}
+{"type": "daily", "timestamp": "2025-01-03T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 70.27084818246614, "steps_daily": 8399, "stress_daily": 39}
+{"type": "daily", "timestamp": "2025-01-13T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 71.09552495697073, "steps_daily": 6436, "stress_daily": 38}
+{"type": "daily", "timestamp": "2025-01-22T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 68.29716312056738, "steps_daily": 18275, "stress_daily": 36}
+{"type": "daily", "timestamp": "2025-01-04T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.59930555555556, "steps_daily": 15810, "stress_daily": 33}
+{"type": "daily", "timestamp": "2024-07-07T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 70.07480592801694, "steps_daily": 24114, "stress_daily": 25}
+{"type": "daily", "timestamp": "2025-01-27T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 71.11472982975573, "steps_daily": 8433, "stress_daily": 38}
+{"type": "daily", "timestamp": "2025-01-14T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 66.48036253776435, "steps_daily": 4420, "stress_daily": 36}
+{"type": "daily", "timestamp": "2025-01-28T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 68.30252100840336, "steps_daily": 7623, "stress_daily": 42}
+{"type": "daily", "timestamp": "2024-07-08T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 58.86823361823362, "steps_daily": 5596, "stress_daily": 21}
+{"type": "daily", "timestamp": "2025-01-23T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 70.31875, "steps_daily": 9572, "stress_daily": 39}
+{"type": "daily", "timestamp": "2025-01-05T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 70.25197415649677, "steps_daily": 6683, "stress_daily": 40}
+{"type": "daily", "timestamp": "2025-01-15T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 69.85138888888889, "steps_daily": 6345, "stress_daily": 39}
+{"type": "daily", "timestamp": "2025-01-29T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.13055555555556, "steps_daily": 4268, "stress_daily": 41}
+{"type": "daily", "timestamp": "2025-01-06T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 71.50817527795945, "steps_daily": 10205, "stress_daily": 38}
+{"type": "daily", "timestamp": "2024-07-09T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 64.92972972972973, "steps_daily": 16431, "stress_daily": 27}
+{"type": "daily", "timestamp": "2025-01-30T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 70.95743145743145, "steps_daily": 8161, "stress_daily": 41}
+{"type": "daily", "timestamp": "2025-01-24T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 73.44444444444444, "steps_daily": 11176, "stress_daily": 41}
+{"type": "daily", "timestamp": "2025-01-07T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 71.04170363797692, "steps_daily": 7687, "stress_daily": 38}
+{"type": "daily", "timestamp": "2024-06-29T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 74.53592814371258, "steps_daily": 29058, "stress_daily": 30}
+{"type": "daily", "timestamp": "2025-01-16T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 71.46897546897547, "steps_daily": 7078, "stress_daily": 41}
+{"type": "daily", "timestamp": "2024-07-10T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 66.94551036070607, "steps_daily": 16190, "stress_daily": 35}
+{"type": "daily", "timestamp": "2024-12-26T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 66.56031406138473, "steps_daily": 7308, "stress_daily": 32}
+{"type": "daily", "timestamp": "2025-01-08T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 68.03951081843839, "steps_daily": 5961, "stress_daily": 38}
+{"type": "daily", "timestamp": "2025-01-17T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 71.35, "steps_daily": 7697, "stress_daily": 40}
+{"type": "daily", "timestamp": "2024-07-11T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 65.47430555555556, "steps_daily": 9207, "stress_daily": 33}
+{"type": "daily", "timestamp": "2024-12-27T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 68.80125962211336, "steps_daily": 10463, "stress_daily": 34}
+{"type": "daily", "timestamp": "2024-06-30T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 64.97741935483872, "steps_daily": 10214, "stress_daily": 23}
+{"type": "daily", "timestamp": "2025-01-18T00:00:00.000000+00:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 73.61301671064204, "steps_daily": 12623, "stress_daily": 43}
+{"type": "daily", "timestamp": "2024-07-12T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 57.062130177514796, "steps_daily": 3467, "stress_daily": 13}
+{"type": "daily", "timestamp": "2024-12-28T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 60.187210379981465, "steps_daily": 15306, "stress_daily": 21}
+{"type": "daily", "timestamp": "2024-07-01T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 62.61633843909555, "steps_daily": 6945, "stress_daily": 23}
+{"type": "daily", "timestamp": "2024-12-29T00:00:00.000000+02:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 66.61041666666667, "steps_daily": 12605, "stress_daily": 37}
+{"type": "daily", "timestamp": "2024-07-02T00:00:00.000000+01:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 61.598913886733904, "steps_daily": 12623, "stress_daily": 22}
+{"type": "daily", "timestamp": "2025-02-15T00:00:00.000000-08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.88906128782001, "steps_daily": 8531, "stress_daily": 33}
+{"type": "daily", "timestamp": "2025-02-15T00:00:00.000000-08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.88906128782001, "steps_daily": 8531, "stress_daily": 33}
+{"type": "daily", "timestamp": "2025-02-15T00:00:00.000000-08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.88906128782001, "steps_daily": 8531, "stress_daily": 33}
+{"type": "daily", "timestamp": "2025-02-15T00:00:00.000000-08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.88906128782001, "steps_daily": 8531, "stress_daily": 33}
+{"type": "daily", "timestamp": "2025-02-15T00:00:00.000000-08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.88906128782001, "steps_daily": 8531, "stress_daily": 33}
+{"type": "daily", "timestamp": "2025-02-15T00:00:00.000000-08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.88906128782001, "steps_daily": 8531, "stress_daily": 33}
+{"type": "daily", "timestamp": "2025-02-15T00:00:00.000000-08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 67.88906128782001, "steps_daily": 8531, "stress_daily": 33}
+{"type": "daily", "timestamp": "2025-02-16T00:00:00.000000-08:00", "user_id": "0ba45a3a-f555-4982-8008-dacf718f5b8d", "bpm_daily": 50.16541353383459, "steps_daily": 11, "stress_daily": 9}
