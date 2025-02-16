@@ -1,0 +1,9 @@
+flask
+terra-python
+fastapi
+uvicorn
+pandas
+numpy
+stable-baselines3
+gymnasium
+gunicorn
